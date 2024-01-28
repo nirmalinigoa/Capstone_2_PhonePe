@@ -19,10 +19,10 @@ The "Insights" tab offers a variety of pre-defined analyses for quick insights. 
 
 The dashboard seamlessly integrates with a MySQL database, ensuring efficient storage and retrieval of data. This enhances the performance and scalability of the solution.
 
-###User-Friendly Interface:
+### User-Friendly Interface:
 
 The dashboard incorporates Streamlit's user-friendly design, making it easy for users to navigate and explore different aspects of the PhonePe Pulse data. Dropdown menus and graphical representations contribute to an engaging and informative user interface.
 
-###Security Measures:
+### Security Measures:
 
 The code prioritizes security, especially in database connections. Proper credentials and secure practices are employed to safeguard sensitive data throughout the process.
