@@ -7,15 +7,15 @@ The PhonePe Pulse Data Visualization Dashboard is a Streamlit application design
 
 The dashboard features an intuitive navigation menu with options such as "Home," "Geo," "Insights," and "About," enhancing user experience and accessibility.
 
-###Geo Visualization:
+### Geo Visualization:
 
 Utilizing Plotly Express and Streamlit, the dashboard provides an interactive geo-visualization feature. Users can explore transaction details, user information, and top transaction/user details on a geographical map, offering a comprehensive view of data distribution across different states.
 
-###Insights Tab:
+### Insights Tab:
 
 The "Insights" tab offers a variety of pre-defined analyses for quick insights. Users can select options to view top and least states based on transaction amounts, districts based on user counts, and transaction types with the highest amounts, among other insightful analyses.
 
-###MySQL Integration:
+### MySQL Integration:
 
 The dashboard seamlessly integrates with a MySQL database, ensuring efficient storage and retrieval of data. This enhances the performance and scalability of the solution.
 
