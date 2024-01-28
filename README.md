@@ -3,7 +3,7 @@
 The PhonePe Pulse Data Visualization Dashboard is a Streamlit application designed to explore and visualize insights from the PhonePe Pulse GitHub repository. This repository contains a wealth of data related to various metrics and statistics, and the dashboard aims to extract, process, and present this information in a user-friendly manner.
 
 # Key Features
-Navigation Menu:
+## Navigation Menu:
 
 The dashboard features an intuitive navigation menu with options such as "Home," "Geo," "Insights," and "About," enhancing user experience and accessibility.
 Geo Visualization:
